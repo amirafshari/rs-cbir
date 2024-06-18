@@ -20,14 +20,18 @@ Or in a Vision-Language model, you can search for "red ship floating on the sea"
 # Results
 
 ### Visual Search
-Query: Church (Image)  
+**Query: Church (Image)**
 ![png](results/vision/w-aid-data-aid.png)
-
-Query: Mountain (Image)
+  
+**Query: Mountain (Image)**
 ![png](results/vision/w-aid-data-aid-2.png)
+  
+**Query: Parking (Image)**
+![png](results/vision/w-aid-data-aid-3.png)
+  
+**Query: Baseballfield (Image)**
+![png](results/vision/w-aid-data-aid-7.png)
 
-Query: Parking (Image)
-![png](results/vision/w-aid-data-aid-2.png)
 
 
 ### Vision Language (Multimodal)
