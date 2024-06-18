@@ -20,6 +20,6 @@ Or in a Vision-Language model, you can search for "red ship floating on the sea"
 # Results
 
 ### Visual Search
-[png](results/vision/w-aid-data-aid-1.png)
+![png](results/vision/w-aid-data-aid-1.png)
 
 ### Vision Language (Multimodal)
