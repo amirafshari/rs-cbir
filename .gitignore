@@ -1,13 +1,13 @@
 .pt 
 *.pth 
-
-.vscode/
-
-
-
-/datasets
 *.pdf
 
+
+.vscode/
+Assignment/
+weights/
+/datasets
+/results
 
 
 
