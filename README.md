@@ -5,6 +5,8 @@
 <a target="_blank" href="https://colab.research.google.com/github/amirafshari/rs-cbir/blob/main/image-search.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+  
+  
 With the rapid advancement of remote sensing technologies, the availability of large-scale satellite image datasets has grown exponentially. These datasets contain invaluable information for various applications, including environmental monitoring, urban planning, and disaster management. However, extracting specific categories of objects, such as identifying all images which are similar to a sepcific query image within a dataset of thousands or millions or even billions of samples, presents a significant challenge for human analyst. ships within a dataset of one million samples, presents a significant challenge due to the sheer volume of data and the complexity of manual analysis.
 
 ### Solution
